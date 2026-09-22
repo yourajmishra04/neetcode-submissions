@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# NeetCode Solutions
 
 Welcome to my NeetCode solutions repository!
 
