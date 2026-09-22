@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Welcome to my LeetCode solutions repository!
+Welcome to my NeetCode solutions repository!
 
 ## 👨‍💻 Languages
 - C++
@@ -21,6 +21,6 @@ Welcome to my LeetCode solutions repository!
 
 
 ## 🎯 Goal
-Solve LeetCode problems consistently to strengthen Data Structures & Algorithms for coding interviews.
+Solve NeetCode problems consistently to strengthen Data Structures & Algorithms for coding interviews.
 
 Happy Coding! 🚀
